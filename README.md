@@ -1,2 +1,2 @@
 # countdown
-countdown
+function countdown
